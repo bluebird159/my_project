@@ -2,7 +2,9 @@
 ## Java
 * The Bom Bom Game [GitHub](http://github.com)
 * The Searching Machine [GitHub](http://github.com)
-## Theory
-* Modern HTML & CSS Course 
-  * Hotel
+
+## HTML & CSS
+* NewsGrid Website [GitHub](http://github.com)
+* Portfolio Website [GitHub](http://github.com)
+
 
